@@ -1,0 +1,6 @@
+FSharp.Core
+serilog
+Serilog.Extras.FSharp
+Serilog.Sinks.Literate
+Serilog.Sinks.RollingFile
+Serilog.Sinks.ColoredConsole

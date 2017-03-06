@@ -1,0 +1,8 @@
+source https://www.nuget.org/api/v2
+nuget FAKE
+nuget FSharp.Core
+nuget serilog
+nuget Serilog.Extras.FSharp
+nuget Serilog.Sinks.ColoredConsole
+nuget Serilog.Sinks.Literate
+nuget Serilog.Sinks.RollingFile
